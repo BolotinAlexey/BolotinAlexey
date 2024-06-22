@@ -23,7 +23,7 @@
 - 🔍 **Looking for work**
 - 📄 **[My resume](https://bolotinalexey.github.io/my_resume/)**
 
-### My stack:
+<h3>My stack:</h3>
 
 <img align="left" style="margin-left:5px"
     alt="HTML5"
@@ -115,22 +115,21 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
   />
 
-### My stats:
+<h3>My stats:</h3>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bolotinalexey&theme=algolia">
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bolotinalexey&theme=algolia">
 
-<div class="wrap" align="center" style="margin-bottom:2rem">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bolotinalexey&theme=algolia">
-
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
+<div width="100%" class="wrap" align="center" style="margin-bottom:2rem">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bolotinalexey&theme=algolia">
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
 </div>
 
-<br/>
-
-<div class="wrap" align="left" style="margin:2rem auto">
+<div class="wrap" align="center" style="margin:2rem auto">
 <a href="https://www.codewars.com/users/BolotinAlexey">
 <img src="https://www.codewars.com/users/BolotinAlexey/badges/large" alt="codewars link">
 </a>
-<img src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count">
+<!-- <img src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count"> -->
 </div>
-<!-- <img src="https://github.r2v.ch/codewars?user=BolotinAlexey"> -->
+<div align="center">
+<a href="https://u8views.com/github/BolotinAlexey"><img src="https://u8views.com/api/v1/github/profiles/62134373/views/day-week-month-total-count.svg"></a>
+</div>
