@@ -1,6 +1,6 @@
 <div class="header" align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=80&duration=2000&pause=150&color=EA4335&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Hello!+I'm+Alexey+👋" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=50&duration=2000&pause=150&color=EA4335&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=150&lines=Hello!+I'm+Alexey+👋" width="100%" />
   <h2>Fullstack developer</h2>
 </div>
 <div class="socials" align="center" style="margin:1,5rem 0 1.5rem">
@@ -125,11 +125,12 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
 </div>
 
-<div class="wrap" align="center" style="margin:2rem auto">
-<img align="left" src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count">
+<br/>
 
-<a align="left" href="https://www.codewars.com/users/BolotinAlexey">
+<div class="wrap" align="left" style="margin:2rem auto">
+<a href="https://www.codewars.com/users/BolotinAlexey">
 <img src="https://www.codewars.com/users/BolotinAlexey/badges/large" alt="codewars link">
 </a>
+<img src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count">
 </div>
 <!-- <img src="https://github.r2v.ch/codewars?user=BolotinAlexey"> -->
