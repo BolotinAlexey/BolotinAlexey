@@ -122,13 +122,13 @@
 <div class="wrap" align="center" style="margin-bottom:2rem">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bolotinalexey&theme=algolia">
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
 </div>
 
 <div class="wrap" align="center" style="margin:2rem auto">
 <img align="left" src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count">
 
-<a align="right" href="https://www.codewars.com/users/BolotinAlexey">
+<a align="left" href="https://www.codewars.com/users/BolotinAlexey">
 <img src="https://www.codewars.com/users/BolotinAlexey/badges/large" alt="codewars link">
 </a>
 </div>
