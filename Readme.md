@@ -1,9 +1,9 @@
 <div class="header" align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=150&duration=2000&pause=150&color=EA4335&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=200&lines= Hello!+I'm+Alexey+👋" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=80&duration=2000&pause=150&color=EA4335&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Hello!+I'm+Alexey+👋" width="100%" />
   <h2>Fullstack developer</h2>
 </div>
-<div class="socials" align="center">
+<div class="socials" align="center" style="margin:1,5rem 0 1.5rem">
   <a href="https://www.linkedin.com/in/oleksii-bolotin/">
     <img src="https://img.shields.io/badge/OleksiiBolotin-0A66C2?style=social&logo=linkedin" alt="link to LinkedIn">
   </a>
@@ -23,7 +23,7 @@
 - 🔍 **Looking for work**
 - 📄 **[My resume](https://bolotinalexey.github.io/my_resume/)**
 
-### My stack
+### My stack:
 
 <img align="left" style="margin-left:5px"
     alt="HTML5"
@@ -107,7 +107,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
   />
 
-<img align="left"
+<img
     style="margin-left:5px"
     alt="MySQL"
     title="MySQL"
@@ -115,15 +115,17 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
   />
 
+### My stats:
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bolotinalexey&theme=algolia">
 
-<div class="wrap" align="center">
+<div class="wrap" align="center" style="margin-bottom:2rem">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bolotinalexey&theme=algolia">
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolotinalexey&theme=algolia">
 </div>
 
-<div class="wrap" align="center">
+<div class="wrap" align="center" style="margin:2rem auto">
 <img align="left" src="https://profile-counter.glitch.me/{bolotinalexey}/count.svg" alt="visitor count">
 
 <a align="right" href="https://www.codewars.com/users/BolotinAlexey">
